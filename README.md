@@ -5,4 +5,4 @@ This tracks development of the Enhancing Spoken Arabic app suite project for Mar
 Project Team:
 Martin Isleem, Principal Investigator<br />
 Diane Jakacki, Project Manager<br />
-Udoka Eze, Lead Programmer
+Cole Conte, Lead Programmer
